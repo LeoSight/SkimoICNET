@@ -1,13 +1,13 @@
 <vyhlasky>
 	<!--
-    <vyhlaska>
-        <datum></datum>
-        <upraveno></upraveno>
-        <zruseno></zruseno>
-        <text></text>
-    </vyhlaska>
-    -->
-    <vyhlaska>
+	<vyhlaska>
+		<datum></datum>
+		<upraveno></upraveno>
+		<zruseno></zruseno>
+		<text></text>
+	</vyhlaska>
+	-->
+	<vyhlaska>
 		<datum>6.7.2016</datum>
 		<text>Zákaz užívání modrého majáčku či sirény na vozidle, pokud nejde o vozidlo policie, záchranné služby, hasičů či armády. V případě porušení hrozí dotyčné osobě odebrání majáčků/sirény z vozidla a pokuta 55 tisíc.</text>
 	</vyhlaska>
