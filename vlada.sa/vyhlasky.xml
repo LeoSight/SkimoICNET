@@ -1,17 +1,24 @@
 <vyhlasky>
-	<!--<vyhlaska>
+	    <!--
+    <vyhlaska>
+        <datum></datum>
+        <zruseno></zruseno>
+        <text></text>
+    </vyhlaska>
+    -->
+        <vyhlaska>
 		<datum>6.7.2016</datum>
 		<text>Zákaz užívání modrého majáčku či sirény na vozidle, pokud nejde o vozidlo policie, záchranné služby, hasičů či armády. V případě porušení hrozí dotyčné osobě odebrání majáčků/sirény z vozidla a pokuta 55 tisíc.</text>
-	</vyhlaska>-->
-		<!--<vyhlaska>
+	</vyhlaska>
+         <vyhlaska>
 			<datum>6.7.2016</datum>
 			<text>Zákaz provozování vozidla bez právoplatné registrace (rozumějme registrace v zemi) či sundaných poznávacích značek. Tato vozidla mohou být zabavená policií bez možnosti nároku na vozidlo.</text>
-	</vyhlaska>-->
-		<!--<vyhlaska>
+	</vyhlaska>
+		<vyhlaska>
 			<datum>6.7.2016</datum>
 			<text>Upřesnění povinné výbavy v případě provozování motorového vozidla. Řidič motorového vozidla je povinnen mít tuto výbavu v pořádku i když se nejedná o majitele motorového vozidla. Součástí této výbavy má být lékarnička (která nezasahuje k datu expirace), reflexní vesta a výstražný trojúhelník. Hasicí přístroj ovšem i nadále patří mezi doporučenou výbavu. V případě expirované lékarničky či jiného nesplnění výše uvedených parametrů hrozí dotyčné osobě pokuta ve výši 6 500 korun. Vstupuje v platnost s časem 23:59 ke dni 6.7.2017.</text>
-	</vyhlaska>-->
-		<!--<vyhlaska>
+	</vyhlaska>
+		<vyhlaska>
 			<datum>6.7.2016</datum>
 			<text>Zákaz zahalování obličeje na veřejných prostranstvích (rozumějme parky, náměstí, ulice). Porušením tímto zákazu hrozí dotyčné osobě pokuta ve výši 20 tisíc korun.</text>
 </vyhlasky>
