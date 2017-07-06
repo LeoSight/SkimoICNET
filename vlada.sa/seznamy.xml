@@ -1,0 +1,32 @@
+<seznamy>
+	<seznam>
+		<nazev>Legální výroba a distribuce zbraní</nazev>
+		<zaznamy>
+			<!--
+			<zaznam></zaznam>
+			-->
+		</zaznamy>
+	</seznam>
+	<seznam>
+		<nazev>Seznam registrovaných zbraní</nazev>
+		<secret>true</secret>
+		<zaznamy>
+			<!--
+			<zaznam></zaznam>
+			-->
+		</zaznamy>
+	</seznam>
+	<seznam>
+		<nazev>Oficiální zkratky státních institucí</nazev>
+		<zaznamy>
+			<zaznam>GOV - Vláda San Andreas</zaznam>
+			<zaznam>PSA - Policie San Andreas</zaznam>
+			<zaznam>ZZS - Zdravotnická Záchranná Služba</zaznam>
+			<zaznam>HZS - Hasičský Záchranný Sbor</zaznam>
+			<zaznam>SKPV - Služba Kriminální Policie a Vyšetřování</zaznam>
+			<zaznam>BIS - Bezpečnostní Informační Služba</zaznam>
+			<zaznam>GIBS - Generální Inspekce Bezpečnostních Sborů</zaznam>
+			<zaznam>URNA/ÚRN - Útvar Rychlého Nasazení</zaznam>
+		</zaznamy>
+	</seznam>
+</seznamy>
