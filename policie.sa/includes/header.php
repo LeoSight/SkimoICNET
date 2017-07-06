@@ -24,7 +24,6 @@
 				<div class="sidebar">
 					<h3>Boční panel</h3>
 					<h4>Pomáhat a chránit</h4>
-					<h5>---</h5>
 					<p>Pokud chcete k policii, nevájete a přijďte na nábor. Pokud zrovna není nábor, stačí se domluvit.</p>
 				</div>
 				<div id="content">
