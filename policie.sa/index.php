@@ -1,7 +1,7 @@
 <?php $page=1; include('includes/header.php'); ?>
 
 	<h1>Novinky</h1>
-	<p>Policie San Andreas nedÃ¡vno poÅ™Ã¡dala nÃ¡bor a pÅ™ijala nÄ›kolik novÃ½ch policistÅ¯. DoufÃ¡me Å¾e se jim pÅ™i jejich prÃ¡ci bude daÅ™it a pÅ™ejeme jim hodnÄ› Å¡tÄ›stÃ­ s udrÅ¾ovÃ¡nÃ­ poÅ™Ã¡dku v naÅ¡em mÄ›stÄ›.</p>
+	<p>Policie San Andreas nedávno poøádala nábor a pøijala nìkolik novıch policistù.. Doufáme e se jim pøi jejich práci bude daøit a pøejeme jim hodnì štìstí s udrováním poøádku v našem mìste.›.</p>
 	<h2>Informace</h2>
 	<p>Velitel policie: Edan Murrough<br />ZÃ¡stupce: Vladimir Kozlov</p>
 	<h3> Vláda a TSI </h3>
