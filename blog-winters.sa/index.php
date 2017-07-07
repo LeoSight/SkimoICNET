@@ -44,17 +44,19 @@
 				<?php
 					$xml = file_get_contents('clanky.xml');
 					$clanky = simplexml_load_string($xml);
+					$i = 1;
 					foreach($clanky as $key => $value){
 						echo '<div class="content-grid">
 								<div class="content-grid-info">
 									<img src="'.$value->obrazek.'"/>
 									<div class="post-info">
-										<h4><a href="single.php">'.$value->titulek.'</a> '.$value->datum.'</h4>
+										<h4><a href="single.php?id='.$i.'">'.$value->titulek.'</a> '.$value->datum.'</h4>
 										<p>'.$value->text.'</p>
-										<a href="single.php?id='.$key.'"><span></span>Čítaj viac.</a>
+										<a href="single.php?id='.$i.'"><span></span>Čítaj viac.</a>
 									</div>
 								</div>
 							</div>';
+						$i++;
 					}
 				?>
 			</div>

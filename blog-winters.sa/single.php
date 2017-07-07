@@ -40,8 +40,17 @@
 	 <div class="container">
 		  <div class="col-md-8 single-main">				 
 			  <div class="single-grid">
-					<img src="images/post1.jpg" alt=""/>						 					 
-					<p>Založil som si môj vlastný blog! Budem sem písať moje denné zážitky a informácie z Los Santos a jeho okolia. Prečo som sa rozhodol urobiť si vlastný blog? Je to jednoduché. Rád píšem články a myslím si, že ľud mesta Los Santos by mohol byť informovaný aj formou priateľského blogu.Tak toto je viacmenej taký jednoduchý "introduction" so základnými informáciami. Moje meno je Alan, celým menom Alan Winters. Momentálne pracujem v PSA (Polícia San Andreas), predtým som pracoval v Tactical Solutions Incorporated. Moja práca ma baví, každý deň to je niečo nové. Toto je asi zatiaľ všetko, vďaka za prečítanie a vidíme sa pri ďalšom článku.</p>
+					<?php
+						if(isset($_GET['id']) && intval($_GET['id'])){
+							$id = intval($_GET['id']);
+							$xml = file_get_contents('clanky.xml');
+							$clanky = simplexml_load_string($xml, 'SimpleXMLElement', LIBXML_NOCDATA);
+							$clanky_array = json_decode(json_encode((array)$clanky), TRUE);
+							$clanek = $clanky_array['clanek'][$id-1];
+							echo '<img src="'.$clanek['obrazek'].'"/>';
+							echo '<p>'.$clanek['fulltext'].'</p>';
+						}
+					?>
 			  </div>
 			 <ul class="comment-list">
 		  		   <h5 class="post-author_head">Napísal <a href="#" title="Posts by admin" rel="author">Alan Winters</a></h5>
