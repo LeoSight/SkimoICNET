@@ -15,15 +15,15 @@
 				</div>
 				<div id="menubar">
 					<ul id="menu">
-						<li <?php if($page==1){ echo 'class="selected"'; } ?>><a href="index.php">HlavnÃ­ StrÃ¡nka</a></li>
+						<li <?php if($page==1){ echo 'class="selected"'; } ?>><a href="index.php">Hlavní Stránka</a></li>
 						<li <?php if($page==2){ echo 'class="selected"'; } ?>><a href="kontakt.php">Kontakt</a></li>
 					</ul>
 				</div>
 			</div>
 			<div id="site_content">
 				<div class="sidebar">
-					<h3>BoÄnÃ­ panel</h3>
-					<h4>PomÃ¡hat a chrÃ¡nit</h4>
-					<p>Pokud chcete k policii, nevÃ¡jete a pÅ™ijÄte na nÃ¡bor. Pokud zrovna nenÃ­ nÃ¡bor, staÄÃ­ se domluvit.</p>
+					<h3>Boèní panel</h3>
+					<h4>Pomáhat a chránit</h4>
+					<p>Pokud chcete k policii, nevájete a pøijïte na nábor. Pokud zrovna nenÃí nábor, staèí se domluvit.</p>
 				</div>
 				<div id="content">

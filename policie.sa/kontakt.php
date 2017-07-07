@@ -1,6 +1,6 @@
 <?php $page=2; include('includes/header.php'); ?>
 
 	<h1>Kontakt</h1>
-	<p>Pokud nÄ›co potÅ™ebujete, nevÃ¡hejte a napiÅ¡te nÃ¡m na email kontakt@policie.sa</p>
+	<p>Pokud nìco potøebujete, neváhejte a napištì nám na email kontakt@policie.sa</p>
 
 <?php include('includes/footer.php'); ?>
