@@ -8,7 +8,7 @@
 						
 						<div class="clen">
 							<h4>Emily Kane</h4>
-							<p>Výkonná ředitelka<br />Kontakt: [email], tel. [telefon]</p>
+							<p>Výkonná ředitelka<br />Kontakt: emily.kane@news.sa, tel. 854860</p>
 						</div>
 					</div>
 				</div>
