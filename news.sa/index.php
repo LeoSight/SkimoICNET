@@ -84,7 +84,7 @@
 									<b>Emily Kane:</b> <i>Byl už někdo postaven před soudem?</i><br />
 									<b>Owen Clipper:</b> <i>Zatím ne, ale měl být soud mezi TSI a PSA.</i><br />
 									<b>Emily Kane:</b> <i>O co přesně se jedná? Diváky by to určitě zajímalo.</i>
-									<b>Owen Clipper:</b> <i>vProtože dřívě jeden policista zabavil TSI služební auta a nechtěl ho vráťit..</i><br />
+									<b>Owen Clipper:</b> <i>Protože dřívě jeden policista zabavil TSI služební auta a nechtěl ho vrátit..</i><br />
 									<b>Emily Kane:</b> <i>Takže z důvodu ušlého zisku?</i><br />
 									<b>Owen Clipper:</b> <i>Ano.</i><br />
 									<b>Emily Kane:</b> <i>Ví se, o kolik díky PSA TSI přišlo?</i><br />
