@@ -34,7 +34,9 @@
 							<a class="bot">Jessie Haubert <small>- SAN</small> <span>8.1.2017<br />00:07</span></a>
 						</div>
 					</div>
+					-->
 					<div class="grid_6">
+						<!--
 						<div class="p1_box right cl4">
 							<div class="type"></div>
 							<a href="#" class="bot">Mapa aktualit</a>
@@ -119,8 +121,8 @@
 							<blockquote>Jako prezident se tento měsíc zaměřím především na fungování ekonomiky. Na vládě se stále odráží chyby minulého prezidenta, máme nedostatek peněz a proto nemůžeme financovat nové projekty.</blockquote>
 							<a class="bot">Joe Deaton <small>- Vláda SA</small></a>
 						</div>
+						-->
 					</div>
-					-->
 					<div class="clear"></div>
 					<div class="grid_12">
 						<a href="#" class="round"> Nahoru</a>
