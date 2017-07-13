@@ -22,19 +22,21 @@
 							</div>
 							<a class="bot">Jessie Haubert <small>- SAN</small> <span>8.1.2017<br />00:12</span></a>
 						</div>
+						-->
 						<div class="p1_box left cl2">
 							<div class="type"></div>
 							<div class="gray_block">
 								<b>San Andreas Network má nové vedení!</b><br />
-								Jmenuji se Jessie Haubert a jsem nová výkonná ředitelka SAN.
-								Chystám se celé fungování SAN značně zmodernizovat a zlepšit, tímto webem počínaje.<br />
-								Nábor do SAN je otevřen, zájemci mě kontaktuje na tel. 892318.<br />
+								Jmenuji se Emily Kane a jsem nová výkonná ředitelka SAN.
+								Chystám se celé fungování SAN značně zmodernizovat a zlepšit, články na webu počínaje.<br />
+								Nábor do SAN je otevřen, zájemci mě kontaktuje na mailu emily.kane@news.sa<br />
 								Pokud nám chcete dát nějaký tip, volejte na naši horkou linku - 7332.
 							</div>
-							<a class="bot">Jessie Haubert <small>- SAN</small> <span>8.1.2017<br />00:07</span></a>
+							<a class="bot">Emily Kane <small>- SAN</small> <span>13.7.2017<br />20:00</span></a>
 						</div>
 					</div>
 					<div class="grid_6">
+						<!--
 						<div class="p1_box right cl4">
 							<div class="type"></div>
 							<a href="#" class="bot">Mapa aktualit</a>
@@ -43,18 +45,18 @@
 						<div class="p1_box right cl3">
 							<div class="type"></div>
 							<div class="gray_block">
-								<b>Rozhovory s vlivnými - Ministr vnitra, Owen Clipper, 11.7.2017</b><br />
+								<b>Rozhovory s vlivnými [1] - Ministr vnitra, Owen Clipper, 11.7.2017</b><br />
 								
 								
-									<b>Emily Kane: <i>Dobrý večer, dámy a pánové!</i><br />
-									<b>Emily Kane: <i>Vítejte u první dílu pořadu: Rozhovory s vlivnými.</i><br />
-									<b>Emily Kane: <i>Dnešním členem bude pan Owen Clipper, ministr vnitra státu San Andreas.</i><br />
-									<b>Emily Kane: <i>Dobrý večer i vám, pane Clipper.</i><br />
-									<b>Owen Clipper: <i>Taky všechny zdravím.</i><br />
-									<b>Emily Kane: <i>Jak jsem řekla, pan Clipper je ministr vnitra.</i><br />
-									<b>Emily Kane: <i>Proto dnešní otázky budou mířit na vládu, bezpečnost ve státu a jiné.</i><br />
-									<b>Emily Kane: <i>Dobrá, vrhneme se na otázky..</i><br />
-									<b>Emily Kane: <i>Pane Clipper, v jakém stavu se nachází státní složky, například PD nebo HZS?</i><br />
+									<b>Emily Kane:</b> <i>Dobrý večer, dámy a pánové!</i><br />
+									<b>Emily Kane:</b> <i>Vítejte u první dílu pořadu: Rozhovory s vlivnými.</i><br />
+									<b>Emily Kane:</b> <i>Dnešním členem bude pan Owen Clipper, ministr vnitra státu San Andreas.</i><br />
+									<b>Emily Kane:</b> <i>Dobrý večer i vám, pane Clipper.</i><br />
+									<b>Owen Clipper:</b> <i>Taky všechny zdravím.</i><br />
+									<b>Emily Kane:</b> <i>Jak jsem řekla, pan Clipper je ministr vnitra.</i><br />
+									<b>Emily Kane:</b> <i>Proto dnešní otázky budou mířit na vládu, bezpečnost ve státu a jiné.</i><br />
+									<b>Emily Kane:</b> <i>Dobrá, vrhneme se na otázky..</i><br />
+									<b>Emily Kane:</b> <i>Pane Clipper, v jakém stavu se nachází státní složky, například PD nebo HZS?</i><br />
 									<b>Owen Clipper:</b> <i>Tak PD má nového plukovníka s kterým jsem spokojen dobře se o ní stará..</i><br />
 									<b>Emily Kane:</b> <i>O koho se jedná?</i><br />
 									<b>Owen Clipper:</b> <i>Vladimir Kozlov.</i><br />
@@ -84,7 +86,7 @@
 									<b>Emily Kane:</b> <i>Byl už někdo postaven před soudem?</i><br />
 									<b>Owen Clipper:</b> <i>Zatím ne, ale měl být soud mezi TSI a PSA.</i><br />
 									<b>Emily Kane:</b> <i>O co přesně se jedná? Diváky by to určitě zajímalo.</i>
-									<b>Owen Clipper:</b> <i>vProtože dřívě jeden policista zabavil TSI služební auta a nechtěl ho vráťit..</i><br />
+									<b>Owen Clipper:</b> <i>Protože dřívě jeden policista zabavil TSI služební auta a nechtěl ho vrátit..</i><br />
 									<b>Emily Kane:</b> <i>Takže z důvodu ušlého zisku?</i><br />
 									<b>Owen Clipper:</b> <i>Ano.</i><br />
 									<b>Emily Kane:</b> <i>Ví se, o kolik díky PSA TSI přišlo?</i><br />
@@ -119,8 +121,8 @@
 							<blockquote>Jako prezident se tento měsíc zaměřím především na fungování ekonomiky. Na vládě se stále odráží chyby minulého prezidenta, máme nedostatek peněz a proto nemůžeme financovat nové projekty.</blockquote>
 							<a class="bot">Joe Deaton <small>- Vláda SA</small></a>
 						</div>
+						-->
 					</div>
-					-->
 					<div class="clear"></div>
 					<div class="grid_12">
 						<a href="#" class="round"> Nahoru</a>
