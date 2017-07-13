@@ -32,7 +32,7 @@
 								Nábor do SAN je otevřen, zájemci mě kontaktuje na mailu emily.kane@news.sa<br />
 								Pokud nám chcete dát nějaký tip, volejte na naši horkou linku - 7332.
 							</div>
-							<a class="bot">Emily Kane <small>- SAN</small> <span>13.7.2017<br />20:00</span></a>
+							<a class="bot"><b>Emily Kane</b> <i>- SAN</i> <span>13.7.2017<br />20:00</span></a>
 						</div>
 					</div>
 					<div class="grid_6">
@@ -61,7 +61,7 @@
 									<b>Emily Kane:</b> <i>O koho se jedná?</i><br />
 									<b>Owen Clipper:</b> <i>Vladimir Kozlov.</i><br />
 									<b>Emily Kane:</b> <i>A jak je na tom HZS?</i><br />
-									<b>Owen Clipper:</b> <i>Fu, HZS je na tom hodně špatně ohledně HZS se budu ještě s panem Wardem bavit..</i><br />
+									<b>Owen Clipper:</b> <i>Fu, HZS je na tom hodně špatně ohledně té se budu ještě s panem Wardem bavit..</i><br />
 									<b>Owen Clipper:</b> <i>Protože to co předvadějí..</i><br />
 									<b>Emily Kane:</b> <i>A nemělo by ministertvo vnitra takovéto záležitosti řešit prvotně?</i><br />
 									<b>Emily Kane:</b> <i>Přeci jen, váš úřad je zodpovědný za HZS a PD.</i><br />
@@ -80,9 +80,9 @@
 									<b>Emily Kane:</b> <i>Poprosila bych vás, aby jste to bral seriózně..</i><br />
 									<b>Owen Clipper:</b> <i>Omlouvám se..</i><br />
 									<b>Emily Kane:</b> <i>Jak jste spokojen s panem Wardem, respektujete ho nebo jím spíše pohrdáte a neberete jeho názory vážně?</i><br />
-									<b>Owen Clipper:</b> <i>Pán Ward je určitě dobrý, bere svojí funkcí vážně a jsem sním na sto procent spokojen.</i><br />
+									<b>Owen Clipper:</b> <i>Pan Ward je určitě dobrý, bere svojí funkcí vážně a jsem sním na sto procent spokojen.</i><br />
 									<b>Emily Kane:</b> <i>Jaké členy má vláda a na jakých pozicích?</i><br />
-									<b>Owen Clipper:</b> <i>Tak funci pana Warda hodně lidí znám, pak soudce Dwayne Douglass.</i><br />
+									<b>Owen Clipper:</b> <i>Tak funkci pana Warda hodně lidí znám, pak soudce Dwayne Douglass.</i><br />
 									<b>Emily Kane:</b> <i>Byl už někdo postaven před soudem?</i><br />
 									<b>Owen Clipper:</b> <i>Zatím ne, ale měl být soud mezi TSI a PSA.</i><br />
 									<b>Emily Kane:</b> <i>O co přesně se jedná? Diváky by to určitě zajímalo.</i>
@@ -90,14 +90,14 @@
 									<b>Emily Kane:</b> <i>Takže z důvodu ušlého zisku?</i><br />
 									<b>Owen Clipper:</b> <i>Ano.</i><br />
 									<b>Emily Kane:</b> <i>Ví se, o kolik díky PSA TSI přišlo?</i><br />
-									<b>Owen Clipper:</b> <i>Nevím to přesně, ale asi něco oklo 1,5 milionů.</i><br />
+									<b>Owen Clipper:</b> <i>Nevím to přesně, ale asi něco okolo 1,5 milionů.</i><br />
 									<b>Emily Kane:</b> <i>A pokud to vláda prohraje, bude to platit, že?</i><br />
 									<b>Owen Clipper:</b> <i>Ano..</i><br />
 									<b>Emily Kane:</b> <i>O jakého policistu se jednalo?</i><br />
-									<b>Owen Clipper:</b> <i>Co vím ňákej Maverick.</i><br />
+									<b>Owen Clipper:</b> <i>Co vím nějaký Maverick.</i><br />
 									<b>Emily Kane:</b> <i>A bude to z něj vláda nějak vymáhat? Nebo se to platit z peněz daňových poplatníků?</i><br />
-									<b>Owen Clipper:</b> <i>To se uvidí, ale možná to bude tak že to bude plaťit PSA.</i><br />
-									<b>Emily Kane:</b> <i>Aspoň něco tedy.</i><br />
+									<b>Owen Clipper:</b> <i>To se uvidí, ale možná to bude tak že to bude platit PSA.</i><br />
+									<b>Emily Kane:</b> <i>Aspoň tedy něco.</i><br />
 									<b>Emily Kane:</b> <i>Má vláda na stole nějaké nové návrhy či zákony? Případně jaké?</i><br />
 									<b>Owen Clipper:</b> <i>I kdyby byli tak vám o tom nemůžu říct..</i><br />
 									<b>Owen Clipper:</b> <i>Omlouvám se..</i><br />
@@ -113,7 +113,7 @@
 									Své recenze a nápady na hosty posílejte na mail emily.kane@news.sa<br />
 									Přejeme vám pěkný zbytek dne!<br />
 							</div>
-							<a class="bot">Emily Kane <small>- SAN</small> <span>13.7.2017<br />18:15</span></a>
+							<a class="bot"><b>Emily Kane</b> <i>- SAN</i> <span>13.7.2017<br />18:15</span></a>
 						</div>
 						<!--
 						<div class="p1_box right cl5">
