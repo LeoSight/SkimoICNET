@@ -1,8 +1,8 @@
 <?php $current = 1; include('includes/header.php'); ?>
 			<div class="content">
 				<div class="container_12">
-					<!--
 					<div class="grid_6">
+						<!--
 						<div class="p1_box left cl1">
 							<div class="type"></div>
 							<div class="gray_block">
@@ -39,29 +39,81 @@
 							<div class="type"></div>
 							<a href="#" class="bot">Mapa aktualit</a>
 						</div>
+						-->
 						<div class="p1_box right cl3">
 							<div class="type"></div>
 							<div class="gray_block">
-								<b>Rozhovor s generálporučíkem SpSA</b><br />
+								<b>Rozhovory s vlivnými - Ministr vnitra, Owen Clipper, 11.7.2017</b><br />
 								
-								Jessie Haubert: <i>Dobrý večer pane Sabo.</i><br />
-								Thomas Sabo: <i>Zdravím paní Jessie a občané San Andreas.</i><br />
-								Jessie Haubert: <i>Přejdeme rovnou k první otázce - jak dlouho již pracujete u policie?</i><br />
-								Thomas Sabo: <i>Ták pracujem u policie dajme tomu 11let.</i><br />
-								Jessie Haubert: <i>Co byl za tu dobu Váš největší případ?</i><br />
-								Thomas Sabo: <i>Připad? No tak asi po 11letech asi atentát na pána prezidenta.</i><br />
-								Jessie Haubert: <i>Jaké nejmodernější technologie současně policie používá?</i><br />
-								Thomas Sabo: <i>Ták máme nové radary a náke nové auta od američanú neoznačené takže take tajné.</i><br />
-								Jessie Haubert: <i>Nabíráte do SpSA nové členy? Pokud ano, jak se někdo může policistou stát?</i><br />
-								Thomas Sabo: <i>Ano máme nábor non-stop. Stát se čelnem múžete tak že prídete za mnou ale musíte mat zbrojny prukáz, psychologický test od ZZS a pak řidický prukaz B a ak to máte mužete za mnou dojst a udeláme skoušky a pak se to vše vyhodnotí. A ak ta osoba uspeje tak je přijata a udelají se náke proškolení co a jak a ak neuspeje tak bohužel nekedy inokedy zas muže požadat o místo u SpSA.</i><br />
-								Jessie Haubert: <i>Jak často dělá policie cvičení?</i><br />
-								Thomas Sabo: <i>Zaleži kolik je členu dostpných a ak je ich málo tak se urči dátum a čas. Ale inak každou sobotu.</i><br />
-								Jessie Haubert: <i>Po Los Santos je teď spoustu ulic úplně posprejovaných, víte již něco o vandalech, kteří tohle dělají?</i><br />
-								Thomas Sabo: <i>Máme náke info ale bohužel nevíme ješte kdo to múže být. Ale máme policisti v ulicích takže ulicích takže uvídme co dál. Jaké info od nich dostanem.</i><br />
-								Jessie Haubert: <i>Dobrá, mnohokrát děkuji za rozhovor.</i>
+								
+									<b>Emily Kane: <i>Dobrý večer, dámy a pánové!</i><br />
+									<b>Emily Kane: <i>Vítejte u první dílu pořadu: Rozhovory s vlivnými.</i><br />
+									<b>Emily Kane: <i>Dnešním členem bude pan Owen Clipper, ministr vnitra státu San Andreas.</i><br />
+									<b>Emily Kane: <i>Dobrý večer i vám, pane Clipper.</i><br />
+									<b>Owen Clipper: <i>Taky všechny zdravím.</i><br />
+									<b>Emily Kane: <i>Jak jsem řekla, pan Clipper je ministr vnitra.</i><br />
+									<b>Emily Kane: <i>Proto dnešní otázky budou mířit na vládu, bezpečnost ve státu a jiné.</i><br />
+									<b>Emily Kane: <i>Dobrá, vrhneme se na otázky..</i><br />
+									<b>Emily Kane: <i>Pane Clipper, v jakém stavu se nachází státní složky, například PD nebo HZS?</i><br />
+									<b>Owen Clipper:</b> <i>Tak PD má nového plukovníka s kterým jsem spokojen dobře se o ní stará..</i><br />
+									<b>Emily Kane:</b> <i>O koho se jedná?</i><br />
+									<b>Owen Clipper:</b> <i>Vladimir Kozlov.</i><br />
+									<b>Emily Kane:</b> <i>A jak je na tom HZS?</i><br />
+									<b>Owen Clipper:</b> <i>Fu, HZS je na tom hodně špatně ohledně HZS se budu ještě s panem Wardem bavit..</i><br />
+									<b>Owen Clipper:</b> <i>Protože to co předvadějí..</i><br />
+									<b>Emily Kane:</b> <i>A nemělo by ministertvo vnitra takovéto záležitosti řešit prvotně?</i><br />
+									<b>Emily Kane:</b> <i>Přeci jen, váš úřad je zodpovědný za HZS a PD.</i><br />
+									<b>Owen Clipper:</b> <i>Samozřejmě, ale zatím čekám na pár věcí ohledě HZS..</i><br />
+									<b>Owen Clipper:</b> <i>Takže kamerové záznamy a tak dále..</i><br />
+									<b>Owen Clipper:</b> <i>A to chvilku trvá..</i><br />
+									<b>Emily Kane:</b> <i>Dobrá, přesuneme se tedy na další otázku.</i><br />
+									<b>Emily Kane:</b> <i>Jak je na tom momentálně stát s kriminalitou, roste nebo naopak klesá?</i><br />
+									<b>Owen Clipper:</b> <i>Jak se to řekne, spíš to jde do dolů..</i><br />
+									<b>Emily Kane:</b> <i>Opravdu? Máte nějakou stastiku?</i><br />
+									<b>Owen Clipper:</b> <i>U sebe ne..</i><br />
+									<b>Emily Kane:</b> <i>Takže to máte na stole na svém úřadu?</i><br />
+									<b>Owen Clipper:</b> <i>Ne, ukradl mi notebook.</i><br />
+									<b>Emily Kane:</b> <i>Takže evidetně není nízká..</i><br />
+									<b>Owen Clipper:</b> <i>To víla zuběnka.</i><br />
+									<b>Emily Kane:</b> <i>Poprosila bych vás, aby jste to bral seriózně..</i><br />
+									<b>Owen Clipper:</b> <i>Omlouvám se..</i><br />
+									<b>Emily Kane:</b> <i>Jak jste spokojen s panem Wardem, respektujete ho nebo jím spíše pohrdáte a neberete jeho názory vážně?</i><br />
+									<b>Owen Clipper:</b> <i>Pán Ward je určitě dobrý, bere svojí funkcí vážně a jsem sním na sto procent spokojen.</i><br />
+									<b>Emily Kane:</b> <i>Jaké členy má vláda a na jakých pozicích?</i><br />
+									<b>Owen Clipper:</b> <i>Tak funci pana Warda hodně lidí znám, pak soudce Dwayne Douglass.</i><br />
+									<b>Emily Kane:</b> <i>Byl už někdo postaven před soudem?</i><br />
+									<b>Owen Clipper:</b> <i>Zatím ne, ale měl být soud mezi TSI a PSA.</i><br />
+									<b>Emily Kane:</b> <i>O co přesně se jedná? Diváky by to určitě zajímalo.</i>
+									<b>Owen Clipper:</b> <i>vProtože dřívě jeden policista zabavil TSI služební auta a nechtěl ho vráťit..</i><br />
+									<b>Emily Kane:</b> <i>Takže z důvodu ušlého zisku?</i><br />
+									<b>Owen Clipper:</b> <i>Ano.</i><br />
+									<b>Emily Kane:</b> <i>Ví se, o kolik díky PSA TSI přišlo?</i><br />
+									<b>Owen Clipper:</b> <i>Nevím to přesně, ale asi něco oklo 1,5 milionů.</i><br />
+									<b>Emily Kane:</b> <i>A pokud to vláda prohraje, bude to platit, že?</i><br />
+									<b>Owen Clipper:</b> <i>Ano..</i><br />
+									<b>Emily Kane:</b> <i>O jakého policistu se jednalo?</i><br />
+									<b>Owen Clipper:</b> <i>Co vím ňákej Maverick.</i><br />
+									<b>Emily Kane:</b> <i>A bude to z něj vláda nějak vymáhat? Nebo se to platit z peněz daňových poplatníků?</i><br />
+									<b>Owen Clipper:</b> <i>To se uvidí, ale možná to bude tak že to bude plaťit PSA.</i><br />
+									<b>Emily Kane:</b> <i>Aspoň něco tedy.</i><br />
+									<b>Emily Kane:</b> <i>Má vláda na stole nějaké nové návrhy či zákony? Případně jaké?</i><br />
+									<b>Owen Clipper:</b> <i>I kdyby byli tak vám o tom nemůžu říct..</i><br />
+									<b>Owen Clipper:</b> <i>Omlouvám se..</i><br />
+									<b>Emily Kane:</b> <i>To určitě chápeme..</i><br />
+									<b>Emily Kane:</b> <i>Děkuji za rozhovor.</i><br />
+									<b>Owen Clipper:</b> <i>Já děkuji vám.</i><br />
+									<b>Emily Kane:</b> <i>Je něco, co by jste chtěl divákům vzkázat?</i><br />
+									<b>Owen Clipper:</b> <i>Nekraďte.</i><br />
+									<br />
+									<br />
+									<br />
+									Doufáme, že se vám pilotní díl pořadu Rozhovory s vlivnými líbil.<br />
+									Své recenze a nápady na hosty posílejte na mail emily.kane@news.sa<br />
+									Přejeme vám pěkný zbytek dne!<br />
 							</div>
-							<a class="bot">Jessie Haubert <small>- SAN</small> <span>8.1.2017<br />00:41</span></a>
+							<a class="bot">Emily Kane <small>- SAN</small> <span>13.7.2017<br />18:15</span></a>
 						</div>
+						<!--
 						<div class="p1_box right cl5">
 							<div class="type"></div>
 							<blockquote>Jako prezident se tento měsíc zaměřím především na fungování ekonomiky. Na vládě se stále odráží chyby minulého prezidenta, máme nedostatek peněz a proto nemůžeme financovat nové projekty.</blockquote>
