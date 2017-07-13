@@ -2,6 +2,12 @@
 			<div class="content">
 				<div class="container_12">
 					<div class="grid_6">
+						<div class="p1_box left cl1">
+							<div class="type"></div>
+							<div class="gray_block">
+								Lorem ipsum
+							</div>
+						</div>
 						<!--
 						<div class="p1_box left cl1">
 							<div class="type"></div>
@@ -33,8 +39,8 @@
 							</div>
 							<a class="bot">Jessie Haubert <small>- SAN</small> <span>8.1.2017<br />00:07</span></a>
 						</div>
+						-->
 					</div>
-					-->
 					<div class="grid_6">
 						<!--
 						<div class="p1_box right cl4">
