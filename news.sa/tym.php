@@ -7,7 +7,7 @@
 						<h3>Tým</h3>
 						
 						<div class="clen">
-							<h4>Emily Kane</h4>
+							<h3>Emily Kane</h3>
 							<p>Výkonná ředitelka<br />Kontakt: emily.kane@news.sa, tel. 854860</p>
 						</div>
 					</div>
