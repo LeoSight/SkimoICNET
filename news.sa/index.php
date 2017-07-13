@@ -43,18 +43,18 @@
 						<div class="p1_box right cl3">
 							<div class="type"></div>
 							<div class="gray_block">
-								<b>Rozhovory s vlivnými - Ministr vnitra, Owen Clipper, 11.7.2017</b><br />
+								<b>Rozhovory s vlivnými [1] - Ministr vnitra, Owen Clipper, 11.7.2017</b><br />
 								
 								
-									<b>Emily Kane: <i>Dobrý večer, dámy a pánové!</i><br />
-									<b>Emily Kane: <i>Vítejte u první dílu pořadu: Rozhovory s vlivnými.</i><br />
-									<b>Emily Kane: <i>Dnešním členem bude pan Owen Clipper, ministr vnitra státu San Andreas.</i><br />
-									<b>Emily Kane: <i>Dobrý večer i vám, pane Clipper.</i><br />
-									<b>Owen Clipper: <i>Taky všechny zdravím.</i><br />
-									<b>Emily Kane: <i>Jak jsem řekla, pan Clipper je ministr vnitra.</i><br />
-									<b>Emily Kane: <i>Proto dnešní otázky budou mířit na vládu, bezpečnost ve státu a jiné.</i><br />
-									<b>Emily Kane: <i>Dobrá, vrhneme se na otázky..</i><br />
-									<b>Emily Kane: <i>Pane Clipper, v jakém stavu se nachází státní složky, například PD nebo HZS?</i><br />
+									<b>Emily Kane:</b> <i>Dobrý večer, dámy a pánové!</i><br />
+									<b>Emily Kane:</b> <i>Vítejte u první dílu pořadu: Rozhovory s vlivnými.</i><br />
+									<b>Emily Kane:</b> <i>Dnešním členem bude pan Owen Clipper, ministr vnitra státu San Andreas.</i><br />
+									<b>Emily Kane:</b> <i>Dobrý večer i vám, pane Clipper.</i><br />
+									<b>Owen Clipper:</b> <i>Taky všechny zdravím.</i><br />
+									<b>Emily Kane:</b> <i>Jak jsem řekla, pan Clipper je ministr vnitra.</i><br />
+									<b>Emily Kane:</b> <i>Proto dnešní otázky budou mířit na vládu, bezpečnost ve státu a jiné.</i><br />
+									<b>Emily Kane:</b> <i>Dobrá, vrhneme se na otázky..</i><br />
+									<b>Emily Kane:</b> <i>Pane Clipper, v jakém stavu se nachází státní složky, například PD nebo HZS?</i><br />
 									<b>Owen Clipper:</b> <i>Tak PD má nového plukovníka s kterým jsem spokojen dobře se o ní stará..</i><br />
 									<b>Emily Kane:</b> <i>O koho se jedná?</i><br />
 									<b>Owen Clipper:</b> <i>Vladimir Kozlov.</i><br />
