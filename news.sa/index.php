@@ -2,12 +2,6 @@
 			<div class="content">
 				<div class="container_12">
 					<div class="grid_6">
-						<div class="p1_box left cl1">
-							<div class="type"></div>
-							<div class="gray_block">
-								Lorem ipsum
-							</div>
-						</div>
 						<!--
 						<div class="p1_box left cl1">
 							<div class="type"></div>
