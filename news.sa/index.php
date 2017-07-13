@@ -28,18 +28,18 @@
 							</div>
 							<a class="bot">Jessie Haubert <small>- SAN</small> <span>8.1.2017<br />00:12</span></a>
 						</div>
+						-->
 						<div class="p1_box left cl2">
 							<div class="type"></div>
 							<div class="gray_block">
 								<b>San Andreas Network má nové vedení!</b><br />
-								Jmenuji se Jessie Haubert a jsem nová výkonná ředitelka SAN.
-								Chystám se celé fungování SAN značně zmodernizovat a zlepšit, tímto webem počínaje.<br />
-								Nábor do SAN je otevřen, zájemci mě kontaktuje na tel. 892318.<br />
+								Jmenuji se Emily Kane a jsem nová výkonná ředitelka SAN.
+								Chystám se celé fungování SAN značně zmodernizovat a zlepšit, články na webu počínaje.<br />
+								Nábor do SAN je otevřen, zájemci mě kontaktuje na mailu emily.kane@news.sa<br />
 								Pokud nám chcete dát nějaký tip, volejte na naši horkou linku - 7332.
 							</div>
-							<a class="bot">Jessie Haubert <small>- SAN</small> <span>8.1.2017<br />00:07</span></a>
+							<a class="bot">Emily Kane <small>- SAN</small> <span>13.7.2017<br />20:00</span></a>
 						</div>
-						-->
 					</div>
 					<div class="grid_6">
 						<!--
