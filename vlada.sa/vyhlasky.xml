@@ -19,12 +19,11 @@
 	   <text>Upřesnění povinné výbavy v případě provozování motorového vozidla. Řidič motorového vozidla je povinnen mít tuto výbavu v pořádku i když se nejedná o majitele motorového vozidla. Součástí této výbavy má být lékarnička (která nezasahuje k datu expirace), reflexní vesta a výstražný trojúhelník. Hasicí přístroj ovšem i nadále patří mezi doporučenou výbavu. V případě expirované lékarničky či jiného nesplnění výše uvedených parametrů hrozí dotyčné osobě pokuta ve výši 6 500 korun. Vstupuje v platnost s časem 23:59 ke dni 6.7.2017.</text>
 	</vyhlaska>
 	<vyhlaska>
-	   <datum>6.7.2017</datum>
-	   <text>Zákaz zahalování obličeje na veřejných prostranstvích (rozumějme parky, náměstí, ulice). Porušením tímto zákazu hrozí dotyčné osobě pokuta ve výši 20 tisíc korun.</text>
-        </vyhlaska>
-	<vyhlaska>
+	         <datum>6.7.2017</datum>
+	         <text>Zákaz zahalování obličeje na veřejných prostranstvích (rozumějme parky, náměstí, ulice). Porušením tímto zákazu hrozí dotyčné osobě pokuta ve výši 20 tisíc korun.</text>
+    </vyhlaska>
+    <vyhlaska>
            <datum>20.7.2017</datum>
            <text>Vozidlo, které bylo policií zabaveno, je nyní možno si vyzvednout. Vozidlo musí být znovu zaregistrované a majitel vozidla musí zaplatit pokutu ve výši 1/10 hodnoty zabaveného vozidla. V případě, že vozidlo bude policií znovu nalezeno jako neregistrované, bude majiteli zabaveno bez možnosti návratu.</text>
     </vyhlaska>
-	
 </vyhlasky>

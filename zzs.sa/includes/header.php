@@ -23,8 +23,7 @@
 			<div id="site_content">
 				<div class="sidebar">
 					<h3>Boční panel</h3>
-					<h4>Lorem ipsum</h4>
-					<h5>dolor sit amet</h5>
-					<p>afajfkj afoa fajf najf afa fnajfna fao fdmfs fnsdgnsgjs</p>
+					<h4>Chráníme to nejcennější</h4>
+					<p>Naším určením je péče o život a zdraví lidí, kteří jsou na něm bezprostředně ohrožení. Naším cílem je pozvednout kvality života v Los Santos ve zdravotnické oblasti a pozvednout úroveň zdravotnické lékařské i nelékařské péče. Neustále rozvíjíme nové i již existující projekty, abychom mohli zajistit lepší funkčnost zdravotnictví, které se v LS pomalu zdokonaluje a zlepšuje. Věříme, že brzy dosáhneme kvality státní úrovně, a že ji jednou jistě přesáhneme.</p>
 				</div>
 				<div id="content">
