@@ -15,8 +15,11 @@
 				</div>
 				<div id="menubar">
 					<ul id="menu">
-						<li <?php if($page==1){ echo 'class="selected"'; } ?>><a href="index.php">Novinky</a></li>
-						<li <?php if($page==2){ echo 'class="selected"'; } ?>><a href="kontakt.php">Kontakt</a></li>
+						<li <?php if($page==1){ echo 'class="selected"'; } ?>><a href="index.php">Úvodní stránka</a></li>
+						<li <?php if($page==2){ echo 'class="selected"'; } ?>><a href="novinky.php">Novinky</a></li>
+						<li <?php if($page==3){ echo 'class="selected"'; } ?>><a href="verejnost.php">Pro veřejnost</a></li>
+						<li <?php if($page==4){ echo 'class="selected"'; } ?>><a href="odprodej.php">Odprodej majetku</a></li>
+						<li <?php if($page==5){ echo 'class="selected"'; } ?>><a href="kontakt.php">Kontakt</a></li>
 					</ul>
 				</div>
 			</div>
