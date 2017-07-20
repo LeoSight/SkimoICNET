@@ -1,24 +1,24 @@
 <?php $page=3; include('includes/header.php'); ?>
 
-	<h1>Pro veøejnost</h1>
+	<h1>Pro veÅ™ejnost</h1>
 	
-	<h2>Pøijímací øízení do všech pozic</h2>
-	<p>Pøijmeme na plnı úvazek zamìstnance do všech pozic v ZZS LS, p.o. V pøípadì zájmu mùeme zajistit zaškolení.</p>
+	<h2>PÅ™ijÃ­macÃ­ Å™Ã­zenÃ­ do vÅ¡ech pozic</h2>
+	<p>PÅ™ijmeme na plnÃ½ Ãºvazek zamÄ›stnance do vÅ¡ech pozic v ZZS LS, p.o. V pÅ™Ã­padÄ› zÃ¡jmu mÅ¯Å¾eme zajistit zaÅ¡kolenÃ­.</p>
 	
-	<h2>Kurzy první pomoci</h2>
-	<p>Zdravotnická záchranná sluba Los Santos organizuje záitkové kurzy první pomoci pro širokou veøejnost i sloky IZS.</p>
-	<p>Kurzy probíhají na støedisku ZZS LS, p.o., v areálu nemocnice ASH a také v rùznıch zákoutích mìsta Los Santos nebo pøilehlého okolí. Naší snahou je se odprostit od nudnıch pøednášek, kdy je první pomoc vykládána teoreticky. Z vlastní zkušenosti víme, e mnohem více si èlovìk zapamatuje, pokud si sám vyzkouší, co se má nauèit. Proto v našich kurzech první pomoci máte jistotu, e se kromì vıkladu dostanete i k modelovım situacím.</p>
+	<h2>Kurzy prvnÃ­ pomoci</h2>
+	<p>ZdravotnickÃ¡ zÃ¡chrannÃ¡ sluÅ¾ba Los Santos organizuje zÃ¡Å¾itkovÃ© kurzy prvnÃ­ pomoci pro Å¡irokou veÅ™ejnost i sloÅ¾ky IZS.</p>
+	<p>Kurzy probÃ­hajÃ­ na stÅ™edisku ZZS LS, p.o., v areÃ¡lu nemocnice ASH a takÃ© v rÅ¯znÃ½ch zÃ¡koutÃ­ch mÄ›sta Los Santos nebo pÅ™ilehlÃ©ho okolÃ­. NaÅ¡Ã­ snahou je se odprostit od nudnÃ½ch pÅ™ednÃ¡Å¡ek, kdy je prvnÃ­ pomoc vyklÃ¡dÃ¡na teoreticky. Z vlastnÃ­ zkuÅ¡enosti vÃ­me, Å¾e mnohem vÃ­ce si ÄlovÄ›k zapamatuje, pokud si sÃ¡m vyzkouÅ¡Ã­, co se mÃ¡ nauÄit. Proto v naÅ¡ich kurzech prvnÃ­ pomoci mÃ¡te jistotu, Å¾e se kromÄ› vÃ½kladu dostanete i k modelovÃ½m situacÃ­m.</p>
 	
-	<p>Mùeme Vám nabídnout napøíklad:</p>
-	<p>Základní norma zdravotnickıch znalostí (nejkratší)</p>
-	<p>Zdravotník zotavovacích akcí (umoòuje vykonávat zdravotníka na letních táborech apod.)</p>
-	<p>Èlen první pomoci (umoòuje vykonávat instruktora první pomoci v autoškolách, na ZŠ a SŠ)</p>
+	<p>MÅ¯Å¾eme VÃ¡m nabÃ­dnout napÅ™Ã­klad:</p>
+	<p>ZÃ¡kladnÃ­ norma zdravotnickÃ½ch znalostÃ­ (nejkratÅ¡Ã­)</p>
+	<p>ZdravotnÃ­k zotavovacÃ­ch akcÃ­ (umoÅ¾Åˆuje vykonÃ¡vat zdravotnÃ­ka na letnÃ­ch tÃ¡borech apod.)</p>
+	<p>ÄŒlen prvnÃ­ pomoci (umoÅ¾Åˆuje vykonÃ¡vat instruktora prvnÃ­ pomoci v autoÅ¡kolÃ¡ch, na ZÅ  a SÅ )</p>
 	
-	<p>Není problém vytvoøit kurz pøesnì dle Vašich poadavkù. Zastavte se u nás a pøedstavte nám Váš návrh.</p>
-	<p>Pro sloky IZS (policie, HZS) nabízíme individuální kurzy dle vybavenosti daného sboru.</p>
+	<p>NenÃ­ problÃ©m vytvoÅ™it kurz pÅ™esnÄ› dle VaÅ¡ich poÅ¾adavkÅ¯. Zastavte se u nÃ¡s a pÅ™edstavte nÃ¡m VÃ¡Å¡ nÃ¡vrh.</p>
+	<p>Pro sloÅ¾ky IZS (policie, HZS) nabÃ­zÃ­me individuÃ¡lnÃ­ kurzy dle vybavenosti danÃ©ho sboru.</p>
 	
-	<h2>Zdravotnické asistence a dozory první pomoci</h2>
-	<p>ZZS LS, p.o. zajišuje zdravotní dozory na kulturních a sportovních akcích konanıch v LS nebo pøilehlém okolí. Dozory doporuèujeme zajistit na akcích s vìtším poètem osob, nebo na takovıch akcích, kde hrozí zvıšené riziko zranìní.</p>
-	<p>Cena za zdravotní dozor je urèena technikou a posádkou, která na místì slouí a z vìtší èásti je moné se na cenì dohodnout.</p>
+	<h2>ZdravotnickÃ© asistence a dozory prvnÃ­ pomoci</h2>
+	<p>ZZS LS, p.o. zajiÅ¡Å¥uje zdravotnÃ­ dozory na kulturnÃ­ch a sportovnÃ­ch akcÃ­ch konanÃ½ch v LS nebo pÅ™ilehlÃ©m okolÃ­. Dozory doporuÄujeme zajistit na akcÃ­ch s vÄ›tÅ¡Ã­m poÄtem osob, nebo na takovÃ½ch akcÃ­ch, kde hrozÃ­ zvÃ½Å¡enÃ© riziko zranÄ›nÃ­.</p>
+	<p>Cena za zdravotnÃ­ dozor je urÄena technikou a posÃ¡dkou, kterÃ¡ na mÃ­stÄ› slouÅ¾Ã­ a z vÄ›tÅ¡Ã­ ÄÃ¡sti je moÅ¾nÃ© se na cenÄ› dohodnout.</p>
 	
 <?php include('includes/footer.php'); ?>
