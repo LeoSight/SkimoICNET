@@ -10,3 +10,5 @@
 **exile** - Přispivatel do stránky blog-winters.sa
 
 **JazeX** - Přispivatel do stránky news.sa
+
+**SedliX** - Přispivatel do stránky zzs.sa
